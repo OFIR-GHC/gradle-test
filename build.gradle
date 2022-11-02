@@ -3,7 +3,7 @@ plugins {
     id 'application'
 	id "ofir.greeting" version "1.0.0"
 }
-
+  
 repositories {
        maven {
         name = "GitHubPackages"
